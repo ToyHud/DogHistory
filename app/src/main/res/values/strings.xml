@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DogHistoryProj2</string>
+    <string name="fetch">Fetch</string>
+    <string name="prev">Prev...</string>
+    <string name="dog_of_the_day">Dog of the Day</string>
+    <string name="previous_dog">Previous Dog</string>
+    <string name="current">Current...</string>
+</resources>
